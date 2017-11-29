@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+    background-color: #7a7a7a;
+    padding: 20px;
+    color: #ffffff
+}
+li, ul ,a{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    padding-left: 0;
+}
+
+a:link {color: #464646; }
+a:visited {color: #757575; }
+a:hover {color: #eda0f7; font-size: 16pt;}
+
+main{
+    text-align: center;
+}
+h2, h1{
+    margin: 0;
+}
+h3{
+    background-color: #61bffd;
+    padding: 5px;
+    
+}
+h3.day1{
+    margin-top: 0;
+}
