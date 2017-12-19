@@ -2,8 +2,10 @@
 body{
     margin: 0;
 }
-
-
+header{
+    margin-top: 10px;
+    text-align: center;
+}
 li, ul ,a{
     text-decoration: none;
     list-style-type: none;
